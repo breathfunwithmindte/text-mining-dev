@@ -1,0 +1,7 @@
+Hello world, this is username = @Mike
+also check {price} if username = @Nacy exist in [ this : array ].
+start day open 401 after tomorrow end
+Have a nice day
+somemail@sia.gr 12345678901 d
+ 12345678901 d
+some more text
